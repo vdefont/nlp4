@@ -1,0 +1,5 @@
+(S (X3 (NP (NNP Mary)) (VP (VB likes) (NP (NNP John)))) (. .))	-1.9
+(S (X3 (NP (NNP John)) (VP (VB codes) (PP (IN with) (NP (NNP John))))) (. .))	-2.1
+NULL
+(S (VP (VB write) (NP (JJ giant) (NNS programs))) (. .))	-2.3
+(S (X3 (NP (JJ giant) (NNS programs)) (VP (VB write) (NP (NNP John)))) (. .))	-2.35
